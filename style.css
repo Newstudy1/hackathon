@@ -2,3 +2,39 @@
 	margin: 0;
 	padding: 0;
 }
+html{
+	background-color: blue;
+}
+.resume{
+	width: 500px;
+	height: 600px;
+	background-color: skyblue;
+	border: 1px solid ;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-left: -250px;
+	margin-top: -300px;
+}
+.picture img{
+	height: 200px;
+	width: 200px;
+	border-radius: 50%;
+	margin-left:150px;
+} 
+h3{
+	margin-left: 200px;
+	margin-top: 50px;
+	font-size: 25px;
+}
+h6{
+	margin-left: 190px;
+	margin-top: 20px;
+	font-size: 18px;
+	font-weight: normal;
+}
+p{
+	margin-top: 40px;
+	margin-left: 170px;
+	font-size: 20px;
+}
